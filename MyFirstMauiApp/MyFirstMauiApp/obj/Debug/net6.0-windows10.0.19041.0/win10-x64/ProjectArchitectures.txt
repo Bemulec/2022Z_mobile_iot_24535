@@ -1,0 +1,1 @@
+C:\Users\emili\Documents\aplikacje-mobilne-android\MyFirstMauiApp\MyFirstMauiApp\MyFirstMauiApp.csproj;x64
